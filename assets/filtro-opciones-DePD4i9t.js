@@ -1,0 +1,1 @@
+import{cn as e}from"./AppShell-DX0Wd-rd.js";import{t}from"./buscador-D4nH9Utb.js";var n=e();function r({etiqueta:e,valor:r,opciones:i,onCambio:a,className:o=`w-52`}){return(0,n.jsx)(t,{className:o,valor:r,onCambio:a,opciones:i,etiqueta:e=>e,clave:e=>e,placeholder:e})}export{r as t};

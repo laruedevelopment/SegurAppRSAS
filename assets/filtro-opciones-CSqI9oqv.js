@@ -1,1 +1,0 @@
-import{sn as e}from"./AppShell-C6om551v.js";import{t}from"./buscador-DTDKTJuC.js";var n=e();function r({etiqueta:e,valor:r,opciones:i,onCambio:a,className:o=`w-52`}){return(0,n.jsx)(t,{className:o,valor:r,onCambio:a,opciones:i,etiqueta:e=>e,clave:e=>e,placeholder:e})}export{r as t};
