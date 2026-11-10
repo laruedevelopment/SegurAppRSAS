@@ -36,7 +36,7 @@ const RESOURCES = {"assets/assets/images/LogoRuedaSerranoFondoTransparente2.png"
 "index.html": "6ab107010403606c6c52480fdf28be45",
 "/": "6ab107010403606c6c52480fdf28be45",
 "version.json": "f36ed7a4cff3bc091f8c98b90eab077c",
-"flutter_bootstrap.js": "79c07e98cc62687bc057e02809c8b047"};
+"flutter_bootstrap.js": "57ed52122ca7321ed007628e39865783"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
