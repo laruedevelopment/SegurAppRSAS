@@ -1,0 +1,1 @@
+var e=e=>`"${e.replace(/\\/g,`\\\\`).replace(/"/g,`\\"`)}"`,t=(t,n)=>`${t}.ilike.${e(`%${n}%`)}`,n=e=>e.replace(/[^0-9A-Za-z]/g,``).toUpperCase(),r=e=>e.replace(/\\/g,`\\\\`).replace(/%/g,`\\%`).replace(/_/g,`\\_`),i=e=>e.normalize(`NFD`).replace(/[\u0300-\u036f]/g,``).toUpperCase().replace(/\s+/g,` `).trim();export{i,t as n,n as r,r as t};
