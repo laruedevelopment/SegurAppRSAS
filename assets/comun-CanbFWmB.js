@@ -1,0 +1,1 @@
+function e(e,t,n){let r=e[t];return{[t]:r.length===1&&r[0]===n?[]:[n]}}export{e as t};
