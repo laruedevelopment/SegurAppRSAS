@@ -1,1 +1,0 @@
-import{fn as e}from"./AppShell-CdFRMMnT.js";import{t}from"./buscador-DqZ94zzo.js";var n=e();function r({etiqueta:e,valor:r,opciones:i,onCambio:a,className:o=`w-52`}){return(0,n.jsx)(t,{className:o,valor:r,onCambio:a,opciones:i,etiqueta:e=>e,clave:e=>e,placeholder:e})}export{r as t};
